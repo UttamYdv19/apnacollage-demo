@@ -1,3 +1,3 @@
 # apnacollage-demo
 this is my first git repository.<br/>
-author-uttam yadav
+author-uttam yadav(developers)
